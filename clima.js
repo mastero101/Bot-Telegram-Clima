@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const token = '5735062519:AAFZLl_bk9SsR2qbkjwj10gMBKeFQkkgA2Q';
+const token = '5499752952:AAGLDvSqY1l9tMN5mllfJq35PjETJZg1FKA';
 const bot = new TelegramBot(token, { polling: true });
 const weather = require('weather-js');
 
